@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tomas Birbalas</h1>
-<h3 align="center">Motivated full-stack developer from Lithuania, Klaipėda</h3>
+<h1 align="left">Hi 👋, I'm Tomas Birbalas</h1>
+<h3 align="left">Motivated full-stack developer from Lithuania, Klaipėda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasbirbalas&label=Profile%20views&color=0e75b6&style=flat" alt="tomasbirbalas" /> </p>
 
