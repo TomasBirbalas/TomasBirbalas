@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasbirbalas&label=Profile%20views&color=0e75b6&style=flat" alt="tomasbirbalas" /> </p>
 
-- 🔭 I’m currently working on [aspe.lt project](https://github.com/DaliusGrigolius/Aspe)
-
-- 🌱 I’m learning JavaScript and C# **Frameworks: react.js and .NET Core 6**
+- 🌱 I’m learning and working with nuxt.js at the moment
 
 - 📫 You can contact me by email: **tomas.birbalas@gmail.com**
 
